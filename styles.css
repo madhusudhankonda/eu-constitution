@@ -1,0 +1,26 @@
+[data-testid="stAppViewContainer"] > .main {
+    background-image: url("data:image/png;base64,{bg_img}");
+    background-size: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
+
+[data-testid="stChatMessage"].st-emotion-cache-4oy321.eeusbqq4 {
+    background: white;
+    border: 1px solid black;
+}
+
+[data-testid="stChatMessage"].st-emotion-cache-1c7y2kd.eeusbqq4 {
+    background: white;
+    border: 1px solid black;
+}
+
+[data-testid="stBottom"] > div {
+    background: transparent;
+}
+
+[data-testid="stChatInput"] {
+    background: white;
+    border: 1px solid black;
+}
